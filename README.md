@@ -51,12 +51,35 @@
   <h3> Click " Github " option on the left side.</h3>
   # <img width="852" alt="Screen Shot 2022-09-27 at 6 26 24 PM" src="https://user-images.githubusercontent.com/110199364/192648739-51bdc3b2-57df-4115-bb07-36586a0cc964.png">
   
-  <p> On the left sidebar find <b>Github</b> and then click the link that says "Add Account". This will open up a prompt to sign inot your Github account. Once you complete this step, your account will be shown on the Github section of Webstorm Settings. Click <b>Ok</b> at bottom right corner.</p> 
+  <p> On the left sidebar find <b>Github</b> and then click on the option that says "Add Account". This will open up a prompt to sign into your Github account. After completing this step, your account will be shown on the Github section of Webstorm Settings. Click <b>Ok</b> at bottom right corner.</p> 
 
-  <h1>Setting up Git in Webstorm</h1>
-  <h2>Open up Settings in Webstorm</h2>
-  <img width="853" alt="Screen Shot 2022-09-27 at 6 35 17 PM" src="https://user-images.githubusercontent.com/110199364/192649623-bc839c93-d41f-488a-b720-af51dc0542ee.png">
-  <p> On the left sidebar look for <b>Git</b> and enter "git.exe" in the text box. Then click <b>Test</b>. It sould ask you to download and install it if not already installed. Just click on the link. Once completed it should say "Git has been installed".Lastly, Click <b>Ok</b> at bottom right corner.</p>
+  <h1>How to set up Git in Webstorm</h1>
+  <h2>Open up the Settings options in Webstorm</h2>
+ 
+  # <img width="853" alt="Screen Shot 2022-09-27 at 6 35 17 PM" src="https://user-images.githubusercontent.com/110199364/192649623-bc839c93-d41f-488a-b720-af51dc0542ee.png">
+  
+  <p> On the left , look for the sidebar that says <b>Git</b> and enter "git.exe" into the text box. Then click on the <b>Test</b> button. It should then ask you to download and install it in your device, if you have not already installed it. Then you can click on the link. Once it has completed the installation process, it should say "Git has been installed".Lastly, Click <b>Ok</b> at bottom right corner.</p>
+  <h1>Glossary:</h1>
+    <ul>
+      <li><b>Branch</b>- is a new/separate version of the main repository.</li>
+      <li><b>Clone</b>- a local copy on your computer and sync between the two locations.</li>
+      <li><b>Commit</b>- committing is the process which records changes in the repository.</li>
+      <li><b>Fetch</b>- is a primary command used to download contents from a remote repository.</li>
+      <li><b>GIT</b>- is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.</li>
+      <li><b>Github</b>- an open source version control system that is the use of a system to keep track of changes to source code or other documents.</li>
+      <li><b>Merge</b>- join two or more development histories together.</li>
+      <li><b>Merge Conflict</b>- generally arise when two people have changed the same lines in a file, or if one developer deleted a file while another developer was modifying it.</li>
+      <li><b>Push</b>- pushing sends the recent commit history from your local repository up to GitHub.</li>
+      <li><b>Pull</b>- grabs any changes from the GitHub repository and merges them into your local repository. </li>
+      <li><b>Remote</b>- manage set of tracked repositories.</li>
+      <li><b>Repository</b>- tracks and saves the history of all changes made to the files in a Git project. </li>
+    </ul>
+  
+  <h1>References:</h1>
+  <p>Atlassian. “Git Merge Conflicts: Atlassian Git Tutorial.” Atlassian, https://www.atlassian.com/git/tutorials/using-branches/merge-conflicts.</p> 
+  <p>“Cloning a Repository.” GitHub Docs, https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository.</p>
+  <p>Git Branch, https://www.w3schools.com/git/git_branch.asp. </p>
+  <p>Git, https://git-scm.com/. </p>
 
 
 
