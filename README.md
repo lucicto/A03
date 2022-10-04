@@ -2,12 +2,12 @@
 <h1>Instructions on how to Download Webstorm:</h1>
 <h2>Step 1:<h/2>
 <h3> Go to https://www.jetbrains.com/webstorm/ and click the <b>" Download "</b> button at the top right corner .</h3>
-<img  alt="github1" src="pictures/github1.png">
+<img  alt="github1" src="[pictures/github1.png](https://github.com/lucicto/A03/blob/main/pictures/github1.png)">
 
 <h2> Step 2:<h2>
 <h3> Select your operating system and click the Download button.</h3>
 
-# <img width="1440" alt="8" src="https://github.com/lucicto/A03/blob/main/pictures/github1.png">
+# <img width="1440" alt="8" src="https://github.com/lucicto/A03/blob/main/pictures/github2.png">
 
 <h2>Step 3:</h2>
 <h3>Now wait a few minutes for the application to download into your device.</h3>
