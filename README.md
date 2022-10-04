@@ -2,7 +2,7 @@
 <h1>Instructions on how to Download Webstorm:</h1>
 <h2>Step 1:<h/2>
 <h3> Go to https://www.jetbrains.com/webstorm/ and click the <b>" Download "</b> button at the top right corner .</h3>
-<img  alt="webstorm homepage" src="/A03/pictures/github1.png">
+<img  alt="github1" src="pictures/github1.png">
 
 <h2> Step 2:<h2>
 <h3> Select your operating system and click the Download button.</h3>
