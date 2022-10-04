@@ -7,7 +7,7 @@
 <h2> Step 2:<h2>
 <h3> Select your operating system and click the Download button.</h3>
 
-# <img width="1440" src="https://user-images.githubusercontent.com/113387088/192421423-0ba2cdbd-e027-4837-a3e6-108e68d24b0f.png">
+# <img width="1440" alt="8" src="https://user-images.githubusercontent.com/113387088/192421423-0ba2cdbd-e027-4837-a3e6-108e68d24b0f.png">
 
 <h2>Step 3:</h2>
 <h3>Now wait a few minutes for the application to download into your device.</h3>
@@ -33,13 +33,36 @@
 <h2>Step 2:</h2>
   <h3>Follow prompt and fill out the required informations</h3>
  # <img width="1440" alt="Screen Shot 2022-09-27 at 11 28 56 AM" src="https://user-images.githubusercontent.com/110199364/192642767-be06db67-2533-4e2f-976e-801cc2ba3aa7.png">
-  <p> After filling out the information, you hace succesfully created a github account.</p>
+  <p> After filling out the information, you have succesfully created a github account.</p>
   
   <h1>Downloading Git</h1>
   <h2>Step 1:</h2>
   <h3>Go to https://git-scm.com/downloads to download Git on to your computer</h3>
   <img width="1440" alt="Screen Shot 2022-09-27 at 11 25 43 AM" src="https://user-images.githubusercontent.com/110199364/192643937-80052928-0f21-4740-9bd9-a6279869e911.png">
   <p>Once on the webpage under the <b>Download</b> heading choose your device and it will prompt you to click a link to download it"</p>
+  
+   <h1>Connecting Webstorm to Github</h1>
+  <h2>Step 1:</h1>
+  <h3>Open up Webstorm</h3>
+  <img width="1196" alt="Screen Shot 2022-09-27 at 6 23 07 PM" src="https://user-images.githubusercontent.com/110199364/192648190-70d3d205-7152-4fb9-b926-f997928daa12.png">
+  <p> On the top right corner Click the <b>Setting</b> icon and then click <b>Preferences</b>.</p>
+
+  <h2>Step 2: </h2>
+  <h3> Click " Github " option on the left side.</h3>
+  # <img width="852" alt="Screen Shot 2022-09-27 at 6 26 24 PM" src="https://user-images.githubusercontent.com/110199364/192648739-51bdc3b2-57df-4115-bb07-36586a0cc964.png">
+  
+  <p> On the left sidebar find <b>Github</b> and then click the link that says "Add Account". This will open up a prompt to sign inot your Github account. Once you complete this step, your account will be shown on the Github section of Webstorm Settings. Click <b>Ok</b> at bottom right corner.</p> 
+
+  <h1>Setting up Git in Webstorm</h1>
+  <h2>Open up Settings in Webstorm</h2>
+  <img width="853" alt="Screen Shot 2022-09-27 at 6 35 17 PM" src="https://user-images.githubusercontent.com/110199364/192649623-bc839c93-d41f-488a-b720-af51dc0542ee.png">
+  <p> On the left sidebar look for <b>Git</b> and enter "git.exe" in the text box. Then click <b>Test</b>. It sould ask you to download and install it if not already installed. Just click on the link. Once completed it should say "Git has been installed".Lastly, Click <b>Ok</b> at bottom right corner.</p>
+
+
+
+  
+  
+  
 
 
   
