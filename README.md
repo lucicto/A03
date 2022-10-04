@@ -7,7 +7,7 @@
 <h2> Step 2:<h2>
 <h3> Select your operating system and click the Download button.</h3>
 
-# <img width="1440" alt="Screen Shot 2022-09-26 at 10 57 22 PM" src="https://user-images.githubusercontent.com/113387088/192421423-0ba2cdbd-e027-4837-a3e6-108e68d24b0f.png">
+# <img width="1440" alt="github1" src="https://user-images.githubusercontent.com/113387088/192421423-0ba2cdbd-e027-4837-a3e6-108e68d24b0f.png">
 
 <h2>Step 3:</h2>
 <h3>Now wait a few minutes for the application to download into your device.</h3>
