@@ -7,7 +7,7 @@
 <h2> Step 2:<h2>
 <h3> Select your operating system and click the Download button.</h3>
 
-# <img width="1440" alt="8" src="pictures/github2.png">
+# <img width="1440" alt="8" src="https://github.com/lucicto/A03/blob/main/pictures/github1.png">
 
 <h2>Step 3:</h2>
 <h3>Now wait a few minutes for the application to download into your device.</h3>
