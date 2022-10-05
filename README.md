@@ -76,7 +76,7 @@
     </ul>
   
   <h1>References:</h1>
-  <p>Atlassian. “Git Merge Conflicts: Atlassian Git Tutorial.” Atlassian, https://www.atlassian.com/git/tutorials/using-branches/merge-conflicts.</p> 
+  
   <p>“Cloning a Repository.” GitHub Docs, https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository.</p>
   <p>Git Branch, https://www.w3schools.com/git/git_branch.asp. </p>
   <p>Git, https://git-scm.com/. </p>
