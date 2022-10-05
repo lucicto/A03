@@ -80,4 +80,6 @@
   <p>“Cloning a Repository.” GitHub Docs, https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository.</p>
   <p>Git Branch, https://www.w3schools.com/git/git_branch.asp. </p>
   <p>Git, https://git-scm.com/. </p>
+  <p>Gartner,https://www.gartner.com/en/informationtechnology/glossary/pushtechnology#:~:text=Software%20that%20automates%20the%20delivery,voice%20mail%20or%20a%20pager.</p>
+  
 
