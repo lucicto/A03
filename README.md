@@ -12,14 +12,14 @@
 <h2>Step 3:</h2>
 <h3>Now wait a few minutes for the application to download into your device.</h3>
 
-#<img width="1257" alt="Screen Shot 2022-09-26 at 11 00 21 PM" src="https://user-images.githubusercontent.com/113387088/192421799-4a030c80-fa28-408a-9ddd-beeb83f03b52.png">
+#<img width="1257" alt="Screen Shot 2022-09-26 at 11 00 21 PM" src="https://github.com/lucicto/A03/blob/main/pictures/github3.png">
 
 <p>If you are using a windows device you will be the download progress below on the downloads bar.</p>
 
 <h2>Step 4:</h2>
 <h3>Webstorm Downloaded</h3>
 
-#<img width="449" alt="8" src="https://user-images.githubusercontent.com/113387088/192422180-2234f66a-1e76-4319-834f-42b0fc11092c.png">
+#<img width="449" alt="8" src="https://github.com/lucicto/A03/blob/main/pictures/github4.png">
 
 <p>After it finishes downloading it may ask you a series of questions for permissions. Allow the prompts as it only start downloading after you accept them. If you are using a windows device, you will see a screen like this. After this step, you are almost close to installing webstorm on your device. </p>
 
@@ -27,36 +27,36 @@
   <h2>Step 1:</h2>
   <h3>Go to https://github.com/join on your preferred browser</h3>
  
- #<img width="1440" alt="Screen Shot 2022-09-27 at 11 28 36 AM" src="https://user-images.githubusercontent.com/110199364/192642409-2b8e8cf8-a108-4b77-8ad1-c8f7a5fb8a65.png">
+ #<img width="1440" alt="Screen Shot 2022-09-27 at 11 28 36 AM" src="https://github.com/lucicto/A03/blob/main/pictures/github5.png">
   <p> On the top right corner of your browser you will see a <b>" Sign Up "</b> option. Click it.</p>
 
 <h2>Step 2:</h2>
   <h3>Follow prompt and fill out the required informations</h3>
- # <img width="1440" alt="Screen Shot 2022-09-27 at 11 28 56 AM" src="https://user-images.githubusercontent.com/110199364/192642767-be06db67-2533-4e2f-976e-801cc2ba3aa7.png">
+ # <img width="1440" alt="Screen Shot 2022-09-27 at 11 28 56 AM" src="https://github.com/lucicto/A03/blob/main/pictures/github6.png">
   <p> After filling out the information, you have succesfully created a github account.</p>
   
   <h1>Downloading Git</h1>
   <h2>Step 1:</h2>
   <h3>Go to https://git-scm.com/downloads to download Git on to your computer</h3>
-  <img width="1440" alt="Screen Shot 2022-09-27 at 11 25 43 AM" src="https://user-images.githubusercontent.com/110199364/192643937-80052928-0f21-4740-9bd9-a6279869e911.png">
+  <img width="1440" alt="Screen Shot 2022-09-27 at 11 25 43 AM" src="https://github.com/lucicto/A03/blob/main/pictures/github7.png">
   <p>Once on the webpage under the <b>Download</b> heading choose your device and it will prompt you to click a link to download it"</p>
   
    <h1>Connecting Webstorm to Github</h1>
   <h2>Step 1:</h1>
   <h3>Open up Webstorm</h3>
-  <img width="1196" alt="Screen Shot 2022-09-27 at 6 23 07 PM" src="https://user-images.githubusercontent.com/110199364/192648190-70d3d205-7152-4fb9-b926-f997928daa12.png">
+  <img width="1196" alt="Screen Shot 2022-09-27 at 6 23 07 PM" src="https://github.com/lucicto/A03/blob/main/pictures/github8.png">
   <p> On the top right corner Click the <b>Setting</b> icon and then click <b>Preferences</b>.</p>
 
   <h2>Step 2: </h2>
   <h3> Click " Github " option on the left side.</h3>
-  # <img width="852" alt="Screen Shot 2022-09-27 at 6 26 24 PM" src="https://user-images.githubusercontent.com/110199364/192648739-51bdc3b2-57df-4115-bb07-36586a0cc964.png">
+  # <img width="852" alt="Screen Shot 2022-09-27 at 6 26 24 PM" src="https://github.com/lucicto/A03/blob/main/pictures/github9.png">
   
   <p> On the left sidebar find <b>Github</b> and then click on the option that says "Add Account". This will open up a prompt to sign into your Github account. After completing this step, your account will be shown on the Github section of Webstorm Settings. Click <b>Ok</b> at bottom right corner.</p> 
 
   <h1>How to set up Git in Webstorm</h1>
   <h2>Open up the Settings options in Webstorm</h2>
  
-  # <img width="853" alt="Screen Shot 2022-09-27 at 6 35 17 PM" src="https://user-images.githubusercontent.com/110199364/192649623-bc839c93-d41f-488a-b720-af51dc0542ee.png">
+  # <img width="853" alt="Screen Shot 2022-09-27 at 6 35 17 PM" src="https://github.com/lucicto/A03/blob/main/pictures/github10.png">
   
   <p> On the left , look for the sidebar that says <b>Git</b> and enter "git.exe" into the text box. Then click on the <b>Test</b> button. It should then ask you to download and install it in your device, if you have not already installed it. Then you can click on the link. Once it has completed the installation process, it should say "Git has been installed".Lastly, Click <b>Ok</b> at bottom right corner.</p>
   <h1>Glossary:</h1>
