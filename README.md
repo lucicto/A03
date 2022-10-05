@@ -39,7 +39,7 @@
   <h2>Step 1:</h2>
   <h3>Go to https://git-scm.com/downloads to download Git on to your computer</h3>
   <img width="1440" alt="github7" src="https://github.com/lucicto/A03/blob/main/pictures/github7.png">
-  <p>Once on the webpage under the <b>Download</b> heading choose your device and it will prompt you to click a link to download it"</p>
+  <p>Once the webpage opens, under the <b>Download</b> heading choose your device and it will prompt you to click a link to download it"</p>
   
    <h1>Connecting Webstorm to Github</h1>
   <h2>Step 1:</h1>
