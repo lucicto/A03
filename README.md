@@ -68,11 +68,11 @@
       <li><b>GIT</b>- is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.</li>
       <li><b>Github</b>- It is a web-based version-control and collaboration platform for software developers</li>
       <li><b>Merge</b>- It is the process of combining or merging various versions of a folder of file.</li>
-      <li><b>Merge Conflict</b>- generally arise when two people have changed the same lines in a file, or if one developer deleted a file while another developer was modifying it.</li>
-      <li><b>Push</b>- pushing sends the recent commit history from your local repository up to GitHub.</li>
-      <li><b>Pull</b>- grabs any changes from the GitHub repository and merges them into your local repository. </li>
-      <li><b>Remote</b>- manage set of tracked repositories.</li>
-      <li><b>Repository</b>- tracks and saves the history of all changes made to the files in a Git project. </li>
+      <li><b>Merge Conflict</b>- This conflict ussualy comes when two people have changed the same lines in a file, or if one developer deleted a file while another developer was modifying it.</li>
+      <li><b>Push</b>- Push refers to a system in which data is "pushed" to a user's device rather than "pulled" by the user.</li>
+      <li><b>Pull</b>- This happens when if a user requests and receives a very specific piece of information, this is information pull. </li>
+      <li><b>Remote</b>- The control of an activity, process, or machine from a distance, as by radioed instructions or coded signals.</li>
+      <li><b>Repository</b>- a central place in which an aggregation of data is kept and maintained in an organized way, usually in computer storage. </li>
     </ul>
   
   <h1>References:</h1>
